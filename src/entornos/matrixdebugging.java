@@ -37,7 +37,7 @@ public class matrixdebugging {
 
 		// Paso 3: Intentar acceder a un índice fuera de los límites
 		try {
-			System.out.println("\nAccediendo al elemento en [3][0]: " + matrix[3][0]);
+			System.out.println("\nAccediendo al elemento en [2][0]: " + matrix[2][0]);
 		} catch (ArrayIndexOutOfBoundsException e) {
 			System.out.println("\nError: " + e.toString());
 		}
