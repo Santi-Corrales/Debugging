@@ -1,4 +1,5 @@
-/BIN/
+#Ignora la carpeta BIN (cualquier lugar dentro del repositorio)
+BIN/
 
 # Ignorar archivos de configuración de Eclipse
 /.settings/
