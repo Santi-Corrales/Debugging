@@ -1,5 +1,10 @@
 /BIN/
 
+# Ignorar archivos de configuración de Eclipse
+/.settings/
+.project
+.classpath
+
 # Compiled class file
 *.class
 
